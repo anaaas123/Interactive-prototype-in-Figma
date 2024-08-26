@@ -1,4 +1,3 @@
-# figma
 Interactive prototype in Figma about e-store for computers and
 computer accessories.
 Link:
